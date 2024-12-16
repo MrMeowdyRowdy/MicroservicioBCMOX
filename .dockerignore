@@ -1,0 +1,8 @@
+target/
+!.mvn/
+!.gradle/
+*.log
+*.iml
+*.class
+.idea/
+*.git
